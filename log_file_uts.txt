@@ -1,0 +1,45 @@
+2022-11-13 22:18:11,352 - 2 - INFO - mencari dan mengambil dataset menggunakan API
+2022-11-13 22:18:13,313 - 2 - INFO - mendownload dataset
+2022-11-13 22:18:14,603 - 7 - INFO - mengimport library pandas dan menginput dataset ke jupyter notebook
+2022-11-13 22:18:16,371 - 2 - INFO - mengimport great expectation
+2022-11-13 22:18:16,397 - 2 - INFO - melihat 5 data teratas
+2022-11-13 22:18:16,417 - 2 - INFO - melihat jumlah dari setiap variable pada kolom gender
+2022-11-13 22:18:16,433 - 12 - INFO - mengubah nama setiap variable pada kolom gender
+2022-11-13 22:18:16,456 - 2 - INFO - melihat 5 data teratas
+2022-11-13 22:18:16,483 - 2 - INFO - melihat jumlah dari setiap variable pada kolom gender
+2022-11-13 22:18:16,499 - 2 - INFO - melihat 5 data teratas
+2022-11-13 22:18:16,516 - 2 - INFO - melihat 5 data teratas
+2022-11-13 22:18:16,527 - 2 - INFO - mengubah salah satu nama kolom pada dataframe ke 3
+2022-11-13 22:18:16,551 - 2 - INFO - melihat 5 data teratas
+2022-11-13 22:18:16,591 - 2 - INFO - melihat 5 data teratas
+2022-11-13 22:18:16,612 - 2 - INFO - melihat jumlah kolom dan baris
+2022-11-13 22:18:16,625 - 5 - INFO - memasukkan dataframe ke dalam variable baru untuk great expectation
+2022-11-13 22:18:16,682 - 10 - INFO - mengecek nilai null pada setiap kolom dataframe ke 1 menggunakan great expectation
+2022-11-13 22:18:16,718 - 6 - INFO - mengecek nilai null pada setiap kolom dataframe ke 2 menggunakan great expectation
+2022-11-13 22:18:16,763 - 9 - INFO - mengecek nilai null pada setiap kolom dataframe ke 3 menggunakan great expectation
+2022-11-13 22:18:16,806 - 7 - INFO - mengecek nilai null pada setiap kolom dataframe ke 4 menggunakan great expectation
+2022-11-13 22:18:16,831 - 2 - INFO - melihat jumlah nan pada semua kolom pada dataset 1
+2022-11-13 22:18:16,835 - 4 - INFO - melihat jumlah nan pada semua kolom pada dataset 2
+2022-11-13 22:18:16,842 - 6 - INFO - melihat jumlah nan pada semua kolom pada dataset 3
+2022-11-13 22:18:16,848 - 8 - INFO - melihat jumlah nan pada semua kolom pada dataset 4
+2022-11-13 22:18:16,865 - 2 - INFO - melihat nilai duplikat pada semua kolom di dataframe 1
+2022-11-13 22:18:16,878 - 4 - INFO - melihat nilai duplikat pada semua kolom di dataframe 2
+2022-11-13 22:18:16,886 - 6 - INFO - melihat nilai duplikat pada semua kolom di dataframe 3
+2022-11-13 22:18:16,894 - 8 - INFO - melihat nilai duplikat pada semua kolom di dataframe 4
+2022-11-13 22:18:16,915 - 2 - INFO - melihat tipe data pada setiap kolom di dataframe 1
+2022-11-13 22:18:16,919 - 4 - INFO - melihat tipe data pada setiap kolom di dataframe 2
+2022-11-13 22:18:16,925 - 6 - INFO - melihat tipe data pada setiap kolom di dataframe 3
+2022-11-13 22:18:16,930 - 8 - INFO - melihat tipe data pada setiap kolom di dataframe 4
+2022-11-13 22:18:16,942 - 3 - INFO - mengubah tipe data pada dataframe ke 2
+2022-11-13 22:18:16,959 - 2 - INFO - melihat tipe data pada setiap kolom di dataframe 1
+2022-11-13 22:18:16,963 - 4 - INFO - melihat tipe data pada setiap kolom di dataframe 2
+2022-11-13 22:18:16,967 - 6 - INFO - melihat tipe data pada setiap kolom di dataframe 3
+2022-11-13 22:18:16,973 - 8 - INFO - melihat tipe data pada setiap kolom di dataframe 4
+2022-11-13 22:18:16,985 - 2 - INFO - mengimport create_engine dari library sqlalchemy
+2022-11-13 22:18:17,023 - 2 - INFO - membuat koneksi antara jupyter notebook dengan mysql
+2022-11-13 22:18:17,135 - 2 - INFO - memasukkan dataframe pertama pada jupyter kepada mySQL
+2022-11-13 22:18:17,223 - 4 - INFO - memasukkan dataframe kedua pada jupyter kepada mySQL
+2022-11-13 22:18:17,314 - 6 - INFO - memasukkan dataframe ketiga pada jupyter kepada mySQL
+2022-11-13 22:18:17,596 - 8 - INFO - memasukkan dataframe keempat pada jupyter kepada mySQL
+2022-11-13 22:18:17,597 - 10 - INFO - mengirim semua dataframe kepada mysql untuk dijadikan sebuah table
+2022-11-13 22:18:18,662 - 6 - INFO - mengexport data
